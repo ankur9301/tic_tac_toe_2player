@@ -9,14 +9,14 @@ Run the game, and Player 1 chooses "X" or "O."
 
 2. Game Board:
 
-The grid uses numbers 1 to 9:
+    The grid uses numbers 1 to 9:
 
 
- 7 | 8 | 9
------------
- 4 | 5 | 6
------------
- 1 | 2 | 3
+     7 | 8 | 9
+    -----------
+     4 | 5 | 6
+    -----------
+     1 | 2 | 3
 
 
 3. Rules:
